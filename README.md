@@ -1,5 +1,7 @@
 Spring Oscillator – Hooke’s Law Visualization
 
+Created whithin a Hackaton project.
+
 Live Demo: https://anoyume91.github.io/spring-oscillator-visualization/
 
 An interactive physics-based spring–mass system demonstrating Hooke’s Law (F = –kx) with multiple analytical and artistic visualization modes.
